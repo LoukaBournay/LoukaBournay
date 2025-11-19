@@ -14,7 +14,7 @@ Je crée des **sites modernes en React TypeScript**, livrés en **moins de 48h**
 
 ## 📈 Mes compétences
 **Frontend**  
-React • TypeScript • TailwindCSS  
+React • TypeScript • TailwindCSS <img src="https://skillicons.dev/icons?i=ts" /> 
 **Backend**  
 Laravel • REST APIs  
 **Mobile**  
